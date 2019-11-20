@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Auto-Refresh
-// @namespace   https://github.com/perdolka
+// @namespace
 // @author      _
 // @license     _
 // @version     0.1
@@ -12,6 +12,7 @@
 // @downloadURL https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
 // @updateURL   https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
 // @grant        none
+// @require
 // @include  https://sample.com* - put your site(s) here
 
 // ==/UserScript==
