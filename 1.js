@@ -13,7 +13,12 @@
 // @updateURL   https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
 // @grant        none
 // @include  https://sample.com* - put your site(s) here
+
 // ==/UserScript==
+/* jshint -W097 */
+'use strict';
+// =========== PARAMETERS ===========
+//===================================
 
 (function () 
 { 
