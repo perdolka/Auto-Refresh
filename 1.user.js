@@ -1,25 +1,15 @@
 // ==UserScript==
-// @name     Auto-Refresh
-// @namespace
-// @author      _
-// @license     _
+// @name        Auto-Refresh
 // @version     0.1
 // @description Checks inactivity on the setted page, then reload the page after setted time interval.
-// @icon     https://image.flaticon.com/icons/svg/189/189687.svg
+// @icon        https://image.flaticon.com/icons/svg/189/189687.svg
 // /* Icon made by Roundicons from www.flaticon.com */
 // @homepageURL https://github.com/perdolka/Auto-Refresh
-// @supportURL  https://github.com/perdolka/Auto-Refresh/issues
 // @downloadURL https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
 // @updateURL   https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
-// @grant        none
-// @require
-// @include  https://sample.com* - put your site(s) here
+// @include     https://sample.com* - put your site(s) here
 
 // ==/UserScript==
-/* jshint -W097 */
-'use strict';
-// =========== PARAMETERS ===========
-//===================================
 
 (function () 
 { 
