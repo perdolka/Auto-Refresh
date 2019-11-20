@@ -5,8 +5,8 @@
 // @icon        https://image.flaticon.com/icons/svg/189/189687.svg
 // /* Icon made by Roundicons from www.flaticon.com */
 // @homepageURL https://github.com/perdolka/Auto-Refresh
-// @downloadURL https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
-// @updateURL   https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.js
+// @downloadURL https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.user.js
+// @updateURL   https://raw.githubusercontent.com/perdolka/Auto-Refresh/master/1.user.js
 // @include     https://sample.com* - put your site(s) here
 
 // ==/UserScript==
