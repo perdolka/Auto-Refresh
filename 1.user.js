@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Auto-Refresh
-// @version     0.12
+// @version     0.2
 // @description Checks inactivity on the setted page, then reload the page after setted time interval.
 // @icon        https://image.flaticon.com/icons/svg/189/189687.svg
 // /* Icon made by Roundicons from www.flaticon.com */
