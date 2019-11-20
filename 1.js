@@ -1,5 +1,10 @@
 // ==UserScript==
 // @name     Auto-Refresh
+// @namespace   https://github.com/perdolka
+// @author      _
+// @license     _
+// @version     0.1
+// @description Checks inactivity on the setted page (mouse / keyboard clicks, cursor movement) then reload the page after setted time interval.
 // @icon     https://image.flaticon.com/icons/svg/189/189687.svg
 // /* Icon made by Roundicons from www.flaticon.com */
 // @homepageURL https://github.com/perdolka/Auto-Refresh
