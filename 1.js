@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     Auto-Refresh
 // @icon     https://image.flaticon.com/icons/svg/189/189687.svg
+// /* Icon made by Roundicons from www.flaticon.com */
 // @include  https://sample.com* - put your site(s) here
 // ==/UserScript==
 
